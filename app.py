@@ -4,7 +4,7 @@ import supervision as sv
 
 
 # Cargar el modelo preentrenado YOLOv8n
-model = get_model(model_id="rock-paper-scissors-x10ua/2", api_key="vSBM2VlFemJZfdInyv9O")
+model = get_model(model_id="rock-paper-scissors-x10ua/2", api_key="YOUR-API-KEY")
 
 # Inicializar la captura de video
 video_capture = cv2.VideoCapture(0)
