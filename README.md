@@ -17,7 +17,7 @@ La aplicación permite que el jugador realice los gestos del juego de Piedra, Pa
 
 ## Instalación
 
-Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
+Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local (Windows):
 
 1. **Clona el repositorio**:
    ```bash
